@@ -22,7 +22,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "starmoe's diary"
-site_logo = "../assets/favicon.ico"
+site_logo = "${static_prefix}favicon.ico"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "starmoe"
 email = "ztzylf12345@163.com"
