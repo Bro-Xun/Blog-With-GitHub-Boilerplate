@@ -7,7 +7,7 @@ site_prefix = "/"
 source_dir = "../src/"
 static_prefix="../src/static/"
 build_dir = "../dist/"
-index_page_size = 10
+index_page_size = 5
 archives_page_size = 20
 template = {
     "name": "Prism",
