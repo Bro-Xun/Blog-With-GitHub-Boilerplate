@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Mon, 13 Jun 2022 16:53:16 +0806</lastBuildDate><pubDate>Mon, 13 Jun 2022 16:53:16 +0806</pubDate><item><title>May 27 2022</title><link>/archives/20220527/</link><description>&lt;p&gt;今天嗓子疼得满厉害的，一天课都没怎么上好，好在内容基本都听下去了。其实昨天晚上就开始了，但一直以为是吃药卡住了导致的，直到现在才知道不是那么回事。&lt;/p&gt;
-&lt;p&gt;真是，体质一天比一天差了，也不知道为什么（不过咱的体质从小就比较弱就是了），现在好像更不行了，一不小心就会感冒🤧。最近睡觉也很难起，不知道是因为晚上睡晚了还是其他什么原因（希望不要是那样啊）。其他什么倒还好。还有就是感觉一天比一天消沉了（但是快活的时候还是很快活，应该不是depression），感觉越来越没有意思，不知道什么时候才能结束。其他同学大多还不知道，不过迟早都得知道，到时候怎么办，真的很难搞。&lt;/p&gt;
-&lt;p&gt;还有什么好期待的呢？&lt;/p&gt;
-&lt;p&gt;但是还是有不少人真的很善良，真的感谢them。&lt;/p&gt;
-&lt;p&gt;感觉某些人的sense of controlling越来越强了，可能真的要随时做好最坏的打算了。&lt;/p&gt;
-</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220527/</guid><pubDate>Fri, 27 May 2022 23:50:00 +0806</pubDate></item><item><title>May 28 2022</title><link>/archives/20220528/</link><description>&lt;p&gt;（补）&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Tue, 14 Jun 2022 16:55:57 +0806</lastBuildDate><pubDate>Tue, 14 Jun 2022 16:55:57 +0806</pubDate><item><title>May 28 2022</title><link>/archives/20220528/</link><description>&lt;p&gt;（补）&lt;/p&gt;
 &lt;p&gt;今天没去学校，惊喜地发现周末作业的量足以让人不上课写的话根本写不完（大悲）&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;（明天或许有些好事发生）&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;谁也说不清楚以后会发生什么，走一步看一步吧。但是有种预感，至暗时刻还没有到来，也永远不可能到来。&lt;del&gt;（因为每一天都比前一天更无意义）&lt;/del&gt;&lt;/p&gt;
@@ -122,4 +117,12 @@ loop&lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;我们终会在没有黑暗的地方相见。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;你好，再见。&lt;/strong&gt;&lt;/p&gt;
-</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220613/</guid><pubDate>Mon, 13 Jun 2022 23:59:00 +0806</pubDate></item></channel></rss>
+</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220613/</guid><pubDate>Mon, 13 Jun 2022 23:59:00 +0806</pubDate></item><item><title>Jun 15 2022</title><link>/archives/20220614/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
+人生第一次用linux shell搞自动化，感觉还可以，还有点“小”问题只能明天再改了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;感觉外源还是不能停，今天又亿次不受自己控制了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;希望期末可以取得满意的成绩（如果还有机会考期末的话）。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;我们终会在没有黑暗的地方相见。&lt;/strong&gt;&lt;/p&gt;
+</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220614/</guid><pubDate>Tue, 14 Jun 2022 00:50:00 +0806</pubDate></item></channel></rss>
