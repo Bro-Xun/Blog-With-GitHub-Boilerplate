@@ -14,29 +14,29 @@ month=$(date +"%m")
 day=$(date +"%d")
 year=$(date +"%Y")
 case $month in
-	"1") m= "Jan"
+	01) m="Jan"
 	;;
-	"2") m= "Feb"
+	02) m="Feb"
 	;;
-	"3") m= "Mar"
+	03) m="Mar"
 	;;
-	"4") m= "Apr"
+	04) m="Apr"
 	;;
-	"5") m= "May"
+	05) m="May"
 	;;
-	"6") m= "Jun"
+	06) m="Jun"
 	;;
-	"7") m= "Jul"
+	07) m="Jul"
 	;;
-	"8") m= "Aug"
+	08) m="Aug"
 	;;
-	"9") m= "Sept"
+	09) m="Sept"
 	;;
-	"10") m= "Oct"
+	10) m="Oct"
 	;;
-	"11") m= "Nov"
+	11) m="Nov"
 	;;
-	"12") m= "Dec"
+	12) m="Dec"
 	;;
 esac
 
