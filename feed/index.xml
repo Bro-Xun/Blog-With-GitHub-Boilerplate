@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 16 Jun 2022 16:09:18 +0806</lastBuildDate><pubDate>Thu, 16 Jun 2022 16:09:18 +0806</pubDate><item><title>May 30 2022</title><link>/archives/20220530/</link><description>&lt;p&gt;今天做英语演讲的PPT太累了（都是那些&lt;del&gt;猪队友&lt;/del&gt;害得x（） ）&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 16 Jun 2022 16:33:48 +0806</lastBuildDate><pubDate>Thu, 16 Jun 2022 16:33:48 +0806</pubDate><item><title>May 30 2022</title><link>/archives/20220530/</link><description>&lt;p&gt;今天做英语演讲的PPT太累了（都是那些&lt;del&gt;猪队友&lt;/del&gt;害得x（） ）&lt;/p&gt;
 &lt;p&gt;话说好像真的被发现了诶。&lt;/p&gt;
 &lt;p&gt;（根据最新消息，每日固定开销可能又要多一些力（悲））&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;stdCNY 0.56/d =&amp;gt; stdCNY 0.7/d&lt;/p&gt;
@@ -135,17 +135,15 @@ loop&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;今年暑假真爽，7月+8月统共19天，还有一堆作业。7.6-7.9还要学农&lt;del&gt;（最关键不给带电子设备，咱准备把mp3 player带着，再加一本好康的书（也许会有人带电脑甚至手机呢 x））。&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;期末考试取得好成绩！&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;（今天信息技术考试，题目满简单的，然后咱很快写完了就在那里乱van python 的terminal）&lt;/p&gt;
-&lt;p&gt;'''python
+&lt;p&gt;'''
 import time as t
 while 1:
     print(114514)
     t.sleep(0.114514)
     print(1919810)
-    t.sleep(0.1919810)&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# python的delay参数单位居然是second真的是很想吐槽...
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;'''&lt;/p&gt;
+    t.sleep(0.1919810)
+    # python的delay参数单位居然是second真的是很想吐槽...
+'''&lt;/p&gt;
 &lt;p&gt;顺便画了一个奇奇怪怪的图：&lt;/p&gt;
 &lt;p&gt;&lt;figure   size-undefined&gt;&lt;img width="-1" height="-1" src="https://s2.loli.net/2022/06/17/M57umWqZojGRA2I.png" alt=""/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;hr&gt;
