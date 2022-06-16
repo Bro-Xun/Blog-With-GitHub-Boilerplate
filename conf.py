@@ -58,6 +58,11 @@ nav = [
         "name": "关于",
         "url": "${site_prefix}about/",
         "target": "_self"
+    },
+    {
+        "name": "后记",
+        "url": "${site_prefix}lastandlast/",
+        "target": "_self"
     }
 ]
 

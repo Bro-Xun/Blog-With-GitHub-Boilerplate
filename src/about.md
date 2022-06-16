@@ -26,6 +26,6 @@ categories:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: starmoe#hydi.xyz (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[starmoe](https://t.me/bro-xun)

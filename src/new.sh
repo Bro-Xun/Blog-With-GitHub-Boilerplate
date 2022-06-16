@@ -59,6 +59,7 @@ tags:
   - nothing
 ---
 <!--generted by linux shell-->" > ${1}.md
+	vim ${title}.md
 
 elif [ $1 == "help" ]
 then
@@ -78,4 +79,5 @@ tags:
   - nothing
 ---
 <!--generted by linux shell-->" > ${1}.md
+	vim ${1}.md
 fi
