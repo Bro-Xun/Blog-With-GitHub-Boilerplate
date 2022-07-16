@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Wed, 29 Jun 2022 16:55:24 +0806</lastBuildDate><pubDate>Wed, 29 Jun 2022 16:55:24 +0806</pubDate><item><title>Jun 01 2022</title><link>/archives/20220601/</link><description>&lt;p&gt;今天真的没有什么特别值得说的事情。&lt;/p&gt;
-&lt;p&gt;（对了据说暑假可能只有一个星期（悲））&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;最近觉得各种问题是越来越多了，也不知道有没有可能解决，尽力而为之吧。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;最大的伤害不是反对，而是忽视。&lt;/p&gt;
-</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220601/</guid><pubDate>Wed, 01 Jun 2022 23:28:00 +0806</pubDate></item><item><title>Jun 02 2022</title><link>/archives/20220602/</link><description>&lt;p&gt;&lt;del&gt;今天在学校开展了所谓班主任节活动，发现了老班的另一面&lt;/del&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sat, 16 Jul 2022 13:25:01 +0806</lastBuildDate><pubDate>Sat, 16 Jul 2022 13:25:01 +0806</pubDate><item><title>Jun 02 2022</title><link>/archives/20220602/</link><description>&lt;p&gt;&lt;del&gt;今天在学校开展了所谓班主任节活动，发现了老班的另一面&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;又是作业多的一个“周末”（悲）&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;感觉天天&lt;/p&gt;
 
@@ -176,4 +170,6 @@ while 1:
 明天开始分班了。&lt;strong&gt;祝好运。&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;我们终会在没有黑暗的地方相会。&lt;/strong&gt;&lt;/p&gt;
-</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220629/</guid><pubDate>Wed, 29 Jun 2022 21:05:00 +0806</pubDate></item></channel></rss>
+</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220629/</guid><pubDate>Wed, 29 Jun 2022 21:05:00 +0806</pubDate></item><item><title>Jul 16 2022</title><link>/archives/20220716/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
+(占个位置)&lt;/p&gt;
+</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220716/</guid><pubDate>Sat, 16 Jul 2022 21:22:00 +0806</pubDate></item></channel></rss>
