@@ -1,21 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Wed, 20 Jul 2022 17:35:27 +0806</lastBuildDate><pubDate>Wed, 20 Jul 2022 17:35:27 +0806</pubDate><item><title>Jun 12 2022</title><link>/archives/20220612/</link><description>&lt;p&gt;好不容易放个周末，花了半天搞Linux&lt;del&gt;（这什么破电脑装个Linux不是安装程序错误就是引导不正确就是显卡驱动不支持，太屑了）&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;最关键最后试了&lt;del&gt;lesbian&lt;/del&gt;（Debian）和Ubuntu都没装起来，最后只能放弃使用物理机搞虚拟机&lt;del&gt;（结果装了个输入法好像又废了）&lt;/del&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;希望期末考好点吧，机会真的真的不多了，不知道以后应该怎么办呢。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;现在s也没得吃了，感觉某些势力正在趁着“改革开放”的大好时机出来闹腾，真的挺烦人的，感觉随时可能&lt;del&gt;发疯&lt;/del&gt;。&lt;/p&gt;
-&lt;p&gt;不知道接下来怎么办。&lt;/p&gt;
-&lt;p&gt;不管怎么样还是希望能为其他人做点事情，引用一句话：&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;因为我们淋过雨，所以我们要帮别人打伞。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;del&gt;（这就是利他主义吗？）&lt;/del&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;del&gt;随时做好最坏的打算。&lt;/del&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;我们终会在没有黑暗的地方相会。&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220612/</guid><pubDate>Sun, 12 Jun 2022 23:50:00 +0806</pubDate></item><item><title>Jun 13 2022</title><link>/archives/20220613/</link><description>&lt;p&gt;首先是祝愿期末考试能够考好，无论还有没有用，有没有意义了。既然现在还没有放弃，那就应该坚持下去。&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Fri, 22 Jul 2022 15:33:03 +0806</lastBuildDate><pubDate>Fri, 22 Jul 2022 15:33:03 +0806</pubDate><item><title>Jun 13 2022</title><link>/archives/20220613/</link><description>&lt;p&gt;首先是祝愿期末考试能够考好，无论还有没有用，有没有意义了。既然现在还没有放弃，那就应该坚持下去。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;加油吧&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;真不错，全线崩盘。&lt;/p&gt;
@@ -142,4 +126,13 @@ while 1:
 误解 偏见 敌对 阻挠&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;我们再无机会在没有黑暗的地方相会。&lt;/strong&gt;&lt;/p&gt;
-</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220721/</guid><pubDate>Thu, 21 Jul 2022 01:22:00 +0806</pubDate></item></channel></rss>
+</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220721/</guid><pubDate>Thu, 21 Jul 2022 01:22:00 +0806</pubDate></item><item><title>Jul 22 2022</title><link>/archives/20220722/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
+还是太天真了。&lt;/p&gt;
+&lt;p&gt;所谓的幸福快乐，不过是聊以自慰的幻想罢了。&lt;/p&gt;
+&lt;p&gt;这个世界还是很现实的。&lt;/p&gt;
+&lt;p&gt;那么幸运的事情也不可能发生在自己身上。&lt;/p&gt;
+&lt;p&gt;有意思，&lt;/p&gt;
+&lt;p&gt;非常有意思。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;放弃一切幻想，做好最后打算。&lt;/strong&gt;&lt;/p&gt;
+</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220722/</guid><pubDate>Fri, 22 Jul 2022 23:29:00 +0806</pubDate></item></channel></rss>
