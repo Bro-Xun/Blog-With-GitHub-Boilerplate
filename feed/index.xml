@@ -1,22 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Fri, 22 Jul 2022 15:33:03 +0806</lastBuildDate><pubDate>Fri, 22 Jul 2022 15:33:03 +0806</pubDate><item><title>Jun 13 2022</title><link>/archives/20220613/</link><description>&lt;p&gt;首先是祝愿期末考试能够考好，无论还有没有用，有没有意义了。既然现在还没有放弃，那就应该坚持下去。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;加油吧&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;真不错，全线崩盘。&lt;/p&gt;
-&lt;p&gt;“问题 逝分 严重”&lt;/p&gt;
-&lt;p&gt;话说今天一整天大脑都在自动播放&lt;code&gt;Don\'t give up&lt;/code&gt;(UT插曲)&lt;del&gt;(有意思的是一开始不记得到底是哪一首歌了，还以为是&lt;code&gt;An Ending&lt;/code&gt;(同样是UT插曲))&lt;/del&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;del&gt;（放弃在这个破电脑上安装windows 10 21H2+linux了，虚拟机用的也挺舒服的说）&lt;/del&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;感觉真的相比于外源性物质，还是自身产生的某些物质对心理伤害更大(其实都是体内缺少了特定的芳香酶的缘故，凭什么呢)&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;烦内！那这样就没法产生内源性相关物质了，只能依靠外源性了，来承受身体和社会的double kill！&lt;/del&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;自我怀疑真的好可怕的说。有没有什么办法可以摆脱的说？&lt;/p&gt;
-&lt;p&gt;马上考过期末还要去“suijiacang”，真的很担心他们是不是t-friendly。万一不是就真的彻底废了。还有希望他们已经开始采用ICI-11了。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;我们终会在没有黑暗的地方相见。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;你好，再见。&lt;/strong&gt;&lt;/p&gt;
-</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220613/</guid><pubDate>Mon, 13 Jun 2022 23:59:00 +0806</pubDate></item><item><title>Jun 15 2022</title><link>/archives/20220614/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 24 Jul 2022 14:23:30 +0806</lastBuildDate><pubDate>Sun, 24 Jul 2022 14:23:30 +0806</pubDate><item><title>Jun 15 2022</title><link>/archives/20220614/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
 人生第一次用linux shell搞自动化，感觉还可以，还有点“小”问题只能明天再改了。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;感觉外源还是不能停，今天又亿次不受自己控制了。&lt;/p&gt;
@@ -135,4 +118,7 @@ while 1:
 &lt;p&gt;非常有意思。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;放弃一切幻想，做好最后打算。&lt;/strong&gt;&lt;/p&gt;
-</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220722/</guid><pubDate>Fri, 22 Jul 2022 23:29:00 +0806</pubDate></item></channel></rss>
+</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220722/</guid><pubDate>Fri, 22 Jul 2022 23:29:00 +0806</pubDate></item><item><title>Jul 24 2022</title><link>/archives/20220724/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
+...&lt;/p&gt;
+&lt;p&gt;（无言）&lt;/p&gt;
+</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220724/</guid><pubDate>Sun, 24 Jul 2022 17:01:00 +0806</pubDate></item></channel></rss>
