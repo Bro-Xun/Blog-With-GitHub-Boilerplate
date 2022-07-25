@@ -70,9 +70,9 @@ def transback(string,value):
 
 while True:
 	method = input("method:")
-	if method == "encode":
+	if method in ["encode","en","e","1"]:
 		sentence = input("content:")
-		pw = input("4-number-length-password (0-not-exist):")
+		pw = input("4-number-length-password:")
 		if len(pw) == 4:
 
 			_split = []
@@ -86,12 +86,15 @@ while True:
 			for i in _result:
 				_result_ += i
 			###print(_result_)
-			print(transform(_result_,int(pw)))
+            
+            #print("---------")
+            print("--------",transform(_result_,int(pw)),"--------",sep="\n")
+            #print("---------")
 
 		else:
 			print("not a proper password!")
 
-	elif method == "decode":###
+	elif method in ["decode","de","d","2"]:###
 		sentence = input("content:")
 		pw = input("enter the password:")
 
@@ -103,7 +106,9 @@ while True:
 			for i in _result:
 				_result_ += i
 
-			print(transback(_result_,int(pw)))
+            #print("---------")
+			print("--------",transback(_result_,int(pw)),"--------",sep="\n")
+            #print("---------")
 
 		else:
 			print("not a proper password!")
