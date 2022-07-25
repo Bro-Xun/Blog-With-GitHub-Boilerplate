@@ -88,7 +88,7 @@ while True:
 			###print(_result_)
             
             #print("---------")
-            print("--------",transform(_result_,int(pw)),"--------",sep="\n")
+			print("--------",transform(_result_,int(pw)),"--------",sep="\n")
             #print("---------")
 
 		else:
@@ -106,9 +106,7 @@ while True:
 			for i in _result:
 				_result_ += i
 
-            #print("---------")
 			print("--------",transback(_result_,int(pw)),"--------",sep="\n")
-            #print("---------")
 
 		else:
 			print("not a proper password!")
