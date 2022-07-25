@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Mon, 25 Jul 2022 14:31:15 +0806</lastBuildDate><pubDate>Mon, 25 Jul 2022 14:31:15 +0806</pubDate><item><title>Jun 15 2022</title><link>/archives/20220614/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
-人生第一次用linux shell搞自动化，感觉还可以，还有点“小”问题只能明天再改了。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;感觉外源还是不能停，今天又亿次不受自己控制了。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;希望期末可以取得满意的成绩（如果还有机会考期末的话）。&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;我们终会在没有黑暗的地方相见。&lt;/strong&gt;&lt;/p&gt;
-</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220614/</guid><pubDate>Tue, 14 Jun 2022 00:50:00 +0806</pubDate></item><item><title>Jun 15 2022</title><link>/archives/20220615/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>starmoe's diary</title><link>/</link><description>Stand unbowed to anxiety or depression, as a place for us must be somewhere in world.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/favicon.ico</url><title>starmoe's diary</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Mon, 25 Jul 2022 14:52:03 +0806</lastBuildDate><pubDate>Mon, 25 Jul 2022 14:52:03 +0806</pubDate><item><title>Jun 15 2022</title><link>/archives/20220615/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
 真不错，今天成功在Ubuntu上装了PicGo。如图：&lt;/p&gt;
 &lt;p&gt;&lt;figure   size-undefined&gt;&lt;img width="-1" height="-1" src="https://s2.loli.net/2022/06/16/6fYjG3pxETtzv4g.png" alt=""/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;nice&lt;/p&gt;
@@ -34,15 +26,14 @@
 &lt;p&gt;今年暑假真爽，7月+8月统共19天，还有一堆作业。7.6-7.9还要学农&lt;del&gt;（最关键不给带电子设备，咱准备把mp3 player带着，再加一本好康的书（也许会有人带电脑甚至手机呢 x））。&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;期末考试取得好成绩！&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;（今天信息技术考试，题目满简单的，然后咱很快写完了就在那里乱van python 的terminal）&lt;/p&gt;
-&lt;p&gt;'''
-import time as t
-while 1:
-    print(114514)
-    t.sleep(0.114514)
-    print(1919810)
-    t.sleep(0.1919810)
-    # python的delay参数单位居然是second真的是很想吐槽...
-'''&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;time&lt;/span&gt; &lt;span class="k"&gt;as&lt;/span&gt; &lt;span class="nn"&gt;t&lt;/span&gt;
+&lt;span class="k"&gt;while&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;114514&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="n"&gt;t&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sleep&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.114514&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1919810&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="n"&gt;t&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sleep&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.1919810&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    \&lt;span class="c1"&gt;# python的delay参数单位居然是second真的是很想吐槽...&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;顺便画了一个奇奇怪怪的图：&lt;/p&gt;
 &lt;p&gt;&lt;figure   size-undefined&gt;&lt;img width="-1" height="-1" src="https://s2.loli.net/2022/06/17/M57umWqZojGRA2I.png" alt=""/&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -121,4 +112,6 @@ while 1:
 </description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220722/</guid><pubDate>Fri, 22 Jul 2022 23:29:00 +0806</pubDate></item><item><title>Jul 24 2022</title><link>/archives/20220724/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
 ...&lt;/p&gt;
 &lt;p&gt;（无言）&lt;/p&gt;
-</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220724/</guid><pubDate>Sun, 24 Jul 2022 17:01:00 +0806</pubDate></item></channel></rss>
+</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220724/</guid><pubDate>Sun, 24 Jul 2022 17:01:00 +0806</pubDate></item><item><title>Jul 25 2022</title><link>/archives/20220725/</link><description>&lt;p&gt;&lt;!--generted by linux shell--&gt;
+to be fulfilled ...&lt;/p&gt;
+</description><author>ztzylf12345@163.com (starmoe)</author><guid isPermaLink="true">/archives/20220725/</guid><pubDate>Mon, 25 Jul 2022 22:46:00 +0806</pubDate></item></channel></rss>
