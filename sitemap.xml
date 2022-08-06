@@ -19,6 +19,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/20220806/</loc>
+    <lastmod>2022-08-06</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/特丨底线/</loc>
+    <lastmod>2022-07-31</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/20220726/</loc>
     <lastmod>2022-07-26</lastmod>
     <changefreq>always</changefreq>
