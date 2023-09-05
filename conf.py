@@ -79,7 +79,7 @@ social_links = [
     },
     {
         "name": "Telegram",
-        "url": "https://t.me/BroXun",
+        "url": "https://t.me/meow_starmoe",
         "icon": "gi gi-telegram"
     },
 #    {
