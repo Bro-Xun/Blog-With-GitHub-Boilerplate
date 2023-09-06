@@ -26,6 +26,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/20230906/</loc>
+    <lastmod>2023-09-07</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/喵喵喵/</loc>
     <lastmod>2023-09-05</lastmod>
     <changefreq>always</changefreq>
